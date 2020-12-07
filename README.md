@@ -15,3 +15,5 @@ This visualization shows a relationship between MIN% as the x axis values, which
 As part of my final analysis i looked at this visualization which helps show the how the stats related with eachother as well as helps locate outliers and shows well what I am trying to represent.
 
 ![stats image](https://github.com/coreyhemenway/Data115_project_data/blob/master/download%20(2).png)
+## Code and Materials
+The data that was used and downloaded fromn excel was in .csv, but originally used in .xls form from the data stuffers website to excel. The jupyter notebook and images from that notebook used are also uploaded.
